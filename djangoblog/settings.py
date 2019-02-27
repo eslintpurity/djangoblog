@@ -25,7 +25,7 @@ SECRET_KEY = 'th%*($s@$8^3$67u2u*kl_ao%%g)@d+plz25h5jtlss@3+lr5-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'eslintpurity.pythonanywhere.com']
 
 
 # Application definition
